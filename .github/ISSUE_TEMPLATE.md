@@ -1,1 +1,32 @@
-IyBEZXNjcmlwdGlvbgoKUGxlYXNlIGluY2x1ZGUgYSBzdW1tYXJ5IG9mIHRoZSBjaGFuZ2UuIFBsZWFzZSBhbHNvIGluY2x1ZGUgcmVsZXZhbnQgbW90aXZhdGlvbiwgbGlua3MgYW5kIGNvbnRleHQuCgpGb3IgYW55IFVJIGNoYW5nZXMsIHBsZWFzZSBpbmNsdWRlIHRoZSBsaW5rcyB0byBkZXNpZ25zIGluIEZpZ21hIGhlcmUuCgojIyBTdGVwcyB0byBjb21wbGV0ZQoKMS4gUGxlYXNlIGluY2x1ZGUgYSBzdGVwLWJ5LXN0ZXAgZ3VpZGUgdG8gaG93IHlvdSB0aGluayB0aGlzIHRpY2tldCBjb3VsZCBiZSBjb21wbGV0ZWQgaW4gYXMgbXVjaCBkZXRhaWwgYXMgeW91IGNhbiBwcm92aWRlLgoKIyMgQWNjZXB0YW5jZSBjcml0ZXJpYQoKMS4gTGlzdCBzcGVjaWZpYyBjcml0ZXJpYSB0aGF0IG11c3QgYmUgbWV0IGZvciB0aGlzIHRhc2sgdG8gYmUgY29uc2lkZXJlZCBjb21wbGV0ZS4KMi4gSW5jbHVkZSBhbnkgcmVsZXZhbnQgdGVjaG5pY2FsIHJlcXVpcmVtZW50cyBvciBjb25zdHJhaW50cy4KCiMjIyBUaXBzIGZvciB3cml0aW5nIGFjY2VwdGFuY2UgY3JpdGVyaWEKCi0gU3RhcnQgd2l0aCB0aGUg4oCcbnVsbOKAnSBlbXB0eSBvciBicm9rZW4gc3RhdGUuIFVzZSBzZXBhcmF0ZSBzY2VuYXJpb3MgZm9yIGVhY2ggcmVzdWx0LgotIERvbuKAmXQgZm9yZ2V0IHRoZSBiYWNrIGJ1dHRvbi4KLSBEb27igJl0IGRlc2lnbiB0aGUgYXBwIFVJCi0gLSBVc2UgZ2VuZXJhbCB0ZXJtcy4KLSAtIERvIG5vdCByZWZlciB0byB1c2VyIGludGVyZmFjZSBlbGVtZW50cywgdGhlc2UgbWlnaHQgY2hhbmdlLCBhbmQgdGhlIHRlc3RzIHNob3VsZCBzdGlsbCB3b3JrLgotIENvbnNpZGVyIHJlc3VsdHMgdGhhdCBhcmVu4oCZdCBhcHBhcmVudCBpbiB0aGUgVUkKLSAtIElmIGRhdGEgY2FuIGJlIGVudGVyZWQgd2hhdCBhcmUgdGhlIGxpbWl0YXRpb25zPwotIC0gLSBJZiBpdOKAmXMgYSBkYXRlLCBob3cgZmFyIGluIHRoZSBmdXR1cmUgb3IgcGFzdD8KLSAtIC0gaWYgaXTigJlzIGEgdHlwZSBvZiBkYXRhLCBhcmUgd2UgY2hlY2tpbmcgdG8gbWFrZSBzdXJlIGl04oCZcyB2YWxpZD8gU3VjaCBhcyBhIG51bWJlciwgZW1haWwsIHRleHQsIGV0Yy4KLSAtIEhvdyBtYW55IHRpbWVzIGNhbiBzb21ldGhpbmcgYmUgYXR0ZW1wdGVkPwoKIyMjIFN0aWxsIG5vdCBzdXJlPwoKLSBbIF0gRG8geW91IG5lZWQgdG8gcnVuIGEgUUEgS2lja29mZiBmb3IgdGhpcyB0aWNrZXQ/CiAgICAtIFsgXSBSdW4gUUEgS2lja29mZiB3aXRoIHRlYW0gYW5kIG5vdGUgZmVlZGJhY2s=
+# Description
+
+Please include a summary of the change. Please also include relevant motivation, links and context.
+
+For any UI changes, please include the links to designs in Figma here.
+
+## Steps to complete
+
+1. Please include a step-by-step guide to how you think this ticket could be completed in as much detail as you can provide.
+
+## Acceptance criteria
+
+1. List specific criteria that must be met for this task to be considered complete.
+2. Include any relevant technical requirements or constraints.
+
+### Tips for writing acceptance criteria
+
+- Start with the “null” empty or broken state. Use separate scenarios for each result.
+- Don’t forget the back button.
+- Don’t design the app UI
+- - Use general terms.
+- - Do not refer to user interface elements, these might change, and the tests should still work.
+- Consider results that aren’t apparent in the UI
+- - If data can be entered what are the limitations?
+- - - If it’s a date, how far in the future or past?
+- - - if it’s a type of data, are we checking to make sure it’s valid? Such as a number, email, text, etc.
+- - How many times can something be attempted?
+
+### Still not sure?
+
+- [ ] Do you need to run a QA Kickoff for this ticket?
+    - [ ] Run QA Kickoff with team and note feedback
