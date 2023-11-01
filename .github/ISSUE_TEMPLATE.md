@@ -1,0 +1,1 @@
+/Users/hannahmckee/dev/instil/instil-github-governator/resources/repositories/content/github/templates/ISSUE_TEMPLATE.md
